@@ -84,7 +84,7 @@ h1 {
 	line-height: 1.2em;
 	font-family: "Jetbrains Mono", "Helvetica Neue", Helvetica, Arial, Sans-serif;
 	letter-spacing: -.07em;
-	color: #3d4451
+	color: #e0c9c9
 }
 
 h2 h3,
@@ -225,7 +225,7 @@ li>ul {
 	-webkit-transition: all .3s ease-out;
 	-moz-transition: all .3s ease-out;
 	transition: all .3s ease-out;
-	box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 2px 5px rgba(0, 0, 0, .17)
+	box-shadow: 0 0 5px rgba(114, 114, 114, 0.2), 0 2px 5px rgba(134, 134, 134, 0.17)
 }
 
 .btn:focus,
@@ -348,7 +348,7 @@ body {
 	font-family: "Open Sans Light", "Helvetica Neue", Helvetica, Arial, Sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
-	background-color: #efefef
+	background-color: #f50b0b
 }
 
 .wrapper {
@@ -359,14 +359,15 @@ body {
 	overflow: hidden;
 	-webkit-transition: opacity .4s ease-out;
 	-moz-transition: opacity .4s ease-out;
-	transition: opacity .4s ease-out
+	transition: opacity .4s ease-out;
+	background-color: #000000;
 }
 
 .container {
 	width: 100%;
 	max-width: 1000px;
 	overflow: visible;
-	margin: 0 auto
+	margin: 0 auto;
 }
 
 .section {
@@ -386,7 +387,7 @@ body {
 }
 
 .section-title {
-	color: #3d4451;
+	color: #e2d5d6;
 	font-size: 34px;
 	line-height: 1.2;
 	font-weight: 600;
@@ -394,13 +395,13 @@ body {
 }
 
 .section-box {
-	background-color: #fff;
-	box-shadow: 0 1px 6px rgba(0, 0, 0, .12), 0 1px 4px rgba(0, 0, 0, .24)
+	background-color: #000000;
+	box-shadow: 0 1px 6px rgba(114, 114, 114, 0.12), 0 1px 4px rgba(121, 121, 121, 0.24)
 }
 
 .content {
 	z-index: 4;
-	position: relative
+	position: relative;
 }
 
 .head-bg {
@@ -427,7 +428,7 @@ body {
 }
 
 .section-txt-btn {
-	color: #000;
+	color: #c0c0c0;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 1.8;
