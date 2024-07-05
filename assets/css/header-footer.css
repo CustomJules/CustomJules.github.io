@@ -53,14 +53,14 @@ body {
 	background-color: transparent;
 	font-size: 18px;
 	font-size: 1.8rem;
-	color: #111;
+	color: #d4d4d4;
 	text-rendering: optimizeLegibility
 }
 
 header {
 	margin-bottom: 75px;
 	box-sizing: content-box;
-	background: #111;
+	background: #c9c9c9;
 	height: 88px;
 	padding: 10px 5% 0 5%;
 	width: 90vw;
@@ -75,7 +75,7 @@ header {
 
 header nav {
 	display: none;
-	background: #222;
+	background: #e0e0e0;
 	position: absolute;
 	top: 98px;
 	right: 0;
@@ -234,7 +234,7 @@ header nav li a {
 a {
 	text-decoration: underline;
 	cursor: pointer;
-	color: #333
+	color: #6d6d6d
 }
 
 a:active,
@@ -338,7 +338,7 @@ ul.ul li {
 	}
 	header nav li a {
 		display: block;
-		color: #111;
+		color: #d3d3d3;
 		line-height: 92px;
 		padding: 0 1em;
 		text-decoration: none
