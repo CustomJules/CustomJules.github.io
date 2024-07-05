@@ -24,7 +24,7 @@ nav {
 	font-size: 100%;
 	vertical-align: bottom;
 	background: 0 0;
-	display: block
+	display: block;
 }
 
 .header-row:after,
@@ -331,7 +331,7 @@ ul.ul li {
 	}
 	header nav li {
 		display: inline-block;
-		float: left;
+		float:  left;
 		position: relative;
 		height: 92px;
 		border: 0
